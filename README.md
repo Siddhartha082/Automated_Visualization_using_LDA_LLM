@@ -1,1 +1,2 @@
-# Automated_Visualization_using_LDA_LLM
+# LIDA-Demo-Streamlit-App
+Automatic Generation of Visualizations and Infographics with LLMs and Streamlit for your CSV data.
